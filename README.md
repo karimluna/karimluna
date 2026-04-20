@@ -13,7 +13,7 @@ Chemical engineering background applied to process optimization & intelligent co
 
 
 
-* [Multi-Modal Multi-Agent Document Understanding](https://github.com/karimluna) $\rightarrow$ *(Ongoing)*
+* [Multi-Modal Multi-Agent Document Understanding](https://github.com/karimluna/madus) $\rightarrow$ *(Ongoing)*
 
 <p>
   <a href="https://linkedin.com/in/karim-luna-ramos">
