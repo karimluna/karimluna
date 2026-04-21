@@ -1,7 +1,7 @@
 # Karim Luna
 > I like to read and understand how to apply new technologies to meaningful problems.
 
-**Applied AI Engineer**: LLM agents, ML systems, distributed infrastructure.
+**AI Engineer**: LLM agents, ML systems, distributed infrastructure.
 Chemical engineering background applied to process optimization & intelligent control.
 
 
@@ -13,7 +13,7 @@ Chemical engineering background applied to process optimization & intelligent co
 
 
 
-* [Multi-Modal Multi-Agent Document Understanding](https://github.com/karimluna/madus) $\rightarrow$ *(Ongoing)*
+* [Multi-Modal Multi-Agent Document Understanding](https://github.com/karimluna/madus) $\rightarrow$ Orchestation and Reflexion System for Doscument Analysis
 
 <p>
   <a href="https://linkedin.com/in/karim-luna-ramos">
