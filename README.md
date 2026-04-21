@@ -1,7 +1,7 @@
 # Karim Luna
 > I like to read and understand how to apply new technologies to meaningful problems.
 
-**Applied AI Engineer** $\rightarrow$ LLM agents, ML systems, distributed infrastructure.
+**Applied AI Engineer**: LLM agents, ML systems, distributed infrastructure.
 Chemical engineering background applied to process optimization & intelligent control.
 
 
