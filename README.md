@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-I am an engineer working on systems that combine LLM agents, reinforcement learning, and scalable infrastructure. 
+Working on systems that combine LLM agents, reinforcement learning, and scalable infrastructure. 
 
 ### ⚡Motivation
 
