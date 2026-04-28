@@ -10,7 +10,8 @@
 I am an engineer working on systems that combine LLM agents, reinforcement learning, and scalable infrastructure. 
 
 ### ⚡Motivation
-I’m interested in how intelligent systems make decisions under constraints, whether that’s optimizing fine-grained details, coordinating multiple agents, or designing control policies that improve consistency and performance over time.
+
+I have a passion in develop and understand how intelligent systems make decisions under constraints, whether that’s optimizing fine-grained details, coordinating multiple agents, or designing control policies that improve consistency and performance over time.
 
 
 
