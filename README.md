@@ -7,11 +7,10 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-Working on systems that combine LLM agents, reinforcement learning, and scalable infrastructure. 
 
-### ⚡Motivation
+### Motivation
 
-I have a passion in develop and understand how intelligent systems make decisions under constraints, whether that’s optimizing fine-grained details, coordinating multiple agents, or designing control policies that improve consistency and performance over time.
+I work on control, optimization, and approximation of dynamic systems, for example in the study of how resource-constrained units can cooperate toward goals none of them could reach alone. My current interest frontiers are approximation of dynamical systems, world models, and multi-agent control.
 
 
 
